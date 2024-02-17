@@ -19,7 +19,7 @@ body{
     display: flex;
     align-items: flex-start;
     justify-content: space-between;
-    background:linear-gradient(#999, #111);
+    background-color:grey;
     padding:5.5rem;
 }
 
